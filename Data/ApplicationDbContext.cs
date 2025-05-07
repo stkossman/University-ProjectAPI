@@ -20,6 +20,13 @@ namespace Dota2API.Data
                 .HasOne(a => a.Hero)
                 .WithMany(h => h.Abilities)
                 .HasForeignKey(a => a.HeroId)
+                .OnDelete(DeleteBehavior.Cascade)
+                .IsRequired(false);
+
+            modelBuilder.Entity<Hero>()
+                .HasMany(h => h.Abilities)
+                .WithOne(a => a.Hero)
+                .HasForeignKey(a => a.HeroId)
                 .OnDelete(DeleteBehavior.Cascade);
 
             // anti-mage hero

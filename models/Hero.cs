@@ -50,6 +50,6 @@ namespace Dota2API.models
         
         public string ImageUrl { get; set; }
         
-        public virtual ICollection<Ability> Abilities { get; set; }
+        public List<Ability>? Abilities { get; set; } = new List<Ability>();
     }
 }

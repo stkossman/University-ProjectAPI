@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Dota2API.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250507204759_init")]
-    partial class init
+    [Migration("20250507223951_AbilitiesOptional")]
+    partial class AbilitiesOptional
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

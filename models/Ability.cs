@@ -36,6 +36,6 @@ namespace Dota2API.models
         public int HeroId { get; set; }
         
         [ForeignKey("HeroId")]
-        public virtual Hero Hero { get; set; }
+        public Hero? Hero { get; set; }
     }
 }

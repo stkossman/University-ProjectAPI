@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dota2API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd5345b666627412f5f22a549ccbdc7dae17c769")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dota2API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dota2API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

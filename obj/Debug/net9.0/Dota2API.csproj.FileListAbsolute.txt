@@ -180,3 +180,4 @@ D:\!PROGRAMMING PROJECTS\labapi\Dota2API\bin\Debug\net9.0\runtimes\win\lib\net6.
 D:\!PROGRAMMING PROJECTS\labapi\Dota2API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\!PROGRAMMING PROJECTS\labapi\Dota2API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\!PROGRAMMING PROJECTS\labapi\Dota2API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\!PROGRAMMING PROJECTS\labapi\Dota2API\obj\Debug\net9.0\Dota2API.sourcelink.json
