@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dota2API.props" />
+</Project>
